@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+    android:title="Inicio" />
+
+    <item
+        android:id="@+id/nav_opciones"
+        android:icon="@drawable/ic_setting"
+    android:title="Opciones Luces" />
+
+    <item
+        android:id="@+id/nav_controlManual"
+        android:icon="@drawable/luz"
+    android:title="Control Manual" />
+
+    <item
+        android:id="@+id/nav_gestion"
+        android:icon="@drawable/ic_acount"
+    android:title="Cuenta" />
+</menu>

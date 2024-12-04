@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645464453973",
+    "firebase_url": "https://rayz-b56f0-default-rtdb.firebaseio.com",
+    "project_id": "rayz-b56f0",
+    "storage_bucket": "rayz-b56f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645464453973:android:cbff099ba210354ac475dc",
+        "android_client_info": {
+          "package_name": "com.example.rayz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpfm9HY7xHU5B1kWBWfDCi4x9wlHw8zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
